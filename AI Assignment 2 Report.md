@@ -45,21 +45,21 @@ Initial specimen size: 2000
 Size of oil strokes: [10; 20]
 Original Images
 
-![Input image](AI%20Assignment%202%20Report%20544e0e4ffe63433bbb1946a7724b206e/balloon.jpeg)
+<img src="https://github.com/asleepann/IAI2021/tree/main/images-for-report/balloon.jpeg" />
 
 Input image
 
-![Output image](AI%20Assignment%202%20Report%20544e0e4ffe63433bbb1946a7724b206e/result.png)
+![Output image](https://github.com/asleepann/IAI2021/tree/main/images-for-report/result.png)
 
 Output image
 
 Blurred images
 
-![Input image](AI%20Assignment%202%20Report%20544e0e4ffe63433bbb1946a7724b206e/blur_orig.png)
+![Input image](https://github.com/asleepann/IAI2021/tree/main/images-for-report/blur_orig.png)
 
 Input image
 
-![Output image](AI%20Assignment%202%20Report%20544e0e4ffe63433bbb1946a7724b206e/blur_result.png)
+![Output image](https://github.com/asleepann/IAI2021/tree/main/images-for-report/blur_result.png)
 
 Output image
 
@@ -72,11 +72,11 @@ Size of oil strokes: [30; 50]
 
 Original images
 
-![Input image](AI%20Assignment%202%20Report%20544e0e4ffe63433bbb1946a7724b206e/flower.jpeg)
+![Input image](https://github.com/asleepann/IAI2021/tree/main/images-for-report/flower.jpeg)
 
 Input image
 
-![Output image](AI%20Assignment%202%20Report%20544e0e4ffe63433bbb1946a7724b206e/flower10k.png)
+![Output image](https://github.com/asleepann/IAI2021/tree/main/images-for-report/flower10k.png)
 
 Output image
 
